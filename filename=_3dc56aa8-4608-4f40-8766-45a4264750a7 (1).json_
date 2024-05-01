@@ -1,0 +1,124 @@
+{
+  "Attachments": true,
+  "Progress": null,
+  "VerifiableCredentials": {
+    "docsId": "3dc56aa8-4608-4f40-8766-45a4264750a7",
+    "userCredentials": []
+  },
+  "NextSteps": null,
+  "LearnAssessment": {
+    "docsId": "3dc56aa8-4608-4f40-8766-45a4264750a7",
+    "sessions": []
+  },
+  "Certifications": null,
+  "Assessments": null,
+  "SkillAssessment": null,
+  "XP": {
+    "xp": {
+      "docsId": "3dc56aa8-4608-4f40-8766-45a4264750a7",
+      "totalXp": 0,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 0,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 1800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "Challenges": null,
+  "TechProfile": {
+    "email": "somemuk7685@gmail.com",
+    "locale": "th-th",
+    "country": "LA",
+    "contactPointTopicSetting": "OptInExplicit",
+    "gsi": false,
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "authenticationModes": [
+      {
+        "id": "0003000073F5C5E0",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "somemuk7685@gmail.com",
+        "oid": "00000000-0000-0000-5d18-765e77e8d951",
+        "dateAcceptedPrivacyNotice": "2024-04-30T10:45:50.820832+00:00",
+        "dateAdded": "2024-04-30T10:45:50.820832+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "off",
+        "questionPosted": "off",
+        "unansweredQuestions": "off",
+        "newFollower": "instant",
+        "answerUpdated": "off"
+      }
+    },
+    "sharingId": "803BCC36D9B7E7C",
+    "userId": "3dc56aa8-4608-4f40-8766-45a4264750a7",
+    "userName": "somemuk-3933",
+    "displayName": "som emuk",
+    "avatarUrl": "https://techprofile.blob.core.windows.net/images/qGrFPQhGQE-HZkWkJkdQpw.png?8DC690",
+    "avatarThumbnailUrl": "https://techprofile.blob.core.windows.net/thumbnails/thumb_qGrFPQhGQE-HZkWkJkdQpw.png?8DC690",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "4/30/2024 10:45:50 AM"
+  },
+  "Lists": null,
+  "Q&A": {
+    "docsId": "3dc56aa8-4608-4f40-8766-45a4264750a7",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  }
+}
